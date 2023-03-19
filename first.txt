@@ -1,6 +1,0 @@
-this is test file
-<<<<<<< HEAD
-append1
-this is new line 
-=======
->>>>>>> parent of 5262f5b (changed files)
